@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @compache11
-- 👀 I’m interested in learning about computer science and programming to change careers. I am currently a constitutional, human rights and legal policy lawyer. 
+- 👀 I’m interested in learning about computer science and programming to change careers. I am currently a government employee.
 - 🌱 I’m currently learning CS50 for Lawyers.
 - 💞️ I’m looking to collaborate on starter projects.
 - 📫 How to reach me - please message me here.
